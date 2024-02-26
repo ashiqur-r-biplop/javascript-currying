@@ -3,7 +3,7 @@
 // };
 
 // const result = add(1, 2, 3); // add(1)(2)(3)
-// console.log(result);
+console.log(result);
 
 const add = (a) => {
   return (b) => {
